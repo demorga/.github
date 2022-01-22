@@ -2,4 +2,8 @@
 
 # Demorga
 
-> WIP
+> Demorga is a Demo GitHub Organisation designd as an Experiment.
+
+---
+
+> To see the full profile, visit [here](../README.md).
