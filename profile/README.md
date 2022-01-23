@@ -14,4 +14,4 @@
 
 ---
 
-> To see the full profile, visit [here](../README.md).
+> To see the full profile, visit [here](https://github.com/demorga/.github/blob/master/profile/README.md).
