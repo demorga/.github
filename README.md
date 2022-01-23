@@ -1,7 +1,8 @@
 # .github
 
 <!-- <h1 style="text-align:center;">.github</h1> -->
-<p style="text-align:center;">
+<p align="center">
+    <h1></h1>
     <a href="#">Website</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Spec</a>
