@@ -10,7 +10,7 @@
     <hr>
 </div>
 
-> Demorga is a Demo GitHub Organisation designd as an Experiment.
+> Demorga is a sandbox github organization created as a blueprint for future projects.
 
 ---
 
