@@ -1,14 +1,14 @@
 # .github
 
 <!-- <h1 style="text-align:center;">.github</h1> -->
-<!-- <p align="center">
+<p align="center">
     <a href="#">Website</a>
     <span>&nbsp;&middot;&nbsp;</span>
-    <a href="#">Spec</a>
+    <a href="https://github.com/demorga/docs">Docs</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Community</a>
     <hr>
-</p> -->
+</p>
 
 ## Motivation <!-- or Why/Purpose -->
 
@@ -71,8 +71,8 @@ Demorga is build with
 
 > [MIT licensed](./LICENSE)
 
----
+<!-- ---
 
 > website [demorga](http://) &nbsp;&middot;&nbsp;
 > GitHub [@demorga](https://github.com/...) &nbsp;&middot;&nbsp;
-> Twitter [@...](https://twitter.com/...)
+> Twitter [@...](https://twitter.com/...) -->

@@ -4,8 +4,8 @@
     <h1>Demorga</h1>
     <a href="#">Website</a>
     <span>&nbsp;&middot;&nbsp;</span>
-    <!-- <a href="#">Spec</a>
-    <span>&nbsp;&middot;&nbsp;</span> -->
+    <a href="https://github.com/demorga/docs">Docs</a>
+    <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Community</a>
     <hr>
 </div>
