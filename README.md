@@ -1,15 +1,14 @@
 # .github
 
 <!-- <h1 style="text-align:center;">.github</h1> -->
-<p align="center">
-    <h1></h1>
+<!-- <p align="center">
     <a href="#">Website</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Spec</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Community</a>
     <hr>
-</p>
+</p> -->
 
 ## Motivation <!-- or Why/Purpose -->
 
@@ -29,15 +28,24 @@ A quick summary:
 
 -->
 
-## What is Demorga?
+<!-- ## What is Demorga?
 
 Demorga is a demo organisation that delivers the following artifacts:
 
 - [Demorga Server](https://github.com/demorga/server): TBO
 - [Demorga Client](https://github.com/demorga/client): TBO
-- [Demorga Cli](https://github.com/demorga/cli): TBO
+- [Demorga Cli](https://github.com/demorga/cli): TBO -->
 
 <!-- All three are generated based on this [Spec]().-->
+
+<!--
+## Tech Stack
+
+Demorga is build with
+- [React.js]()
+- [Next.js]()
+- [Prisma.js]()
+-->
 
 <!--
 ## Future Work
@@ -65,6 +73,6 @@ Demorga is a demo organisation that delivers the following artifacts:
 
 ---
 
-> [demorga.website](http://) &nbsp;&middot;&nbsp;
+> website [demorga](http://) &nbsp;&middot;&nbsp;
 > GitHub [@demorga](https://github.com/...) &nbsp;&middot;&nbsp;
 > Twitter [@...](https://twitter.com/...)
