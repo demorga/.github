@@ -2,9 +2,9 @@
 
 <div align="center">
     <h1>Demorga</h1>
-    <a href="#">Website</a>
+    <a href="#">Docs</a>
     <span>&nbsp;&middot;&nbsp;</span>
-    <a href="https://github.com/demorga/docs">Docs</a>
+    <a href="#">Blog</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Community</a>
     <hr>
@@ -14,4 +14,4 @@
 
 ---
 
-> To see the full profile, visit [here](https://github.com/demorga/.github#readme).
+> For full documentation, visit [here](https://github.com/demorga/community#readme).
