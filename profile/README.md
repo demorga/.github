@@ -6,7 +6,7 @@
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="#">Blog</a>
     <span>&nbsp;&middot;&nbsp;</span>
-    <a href="#">Community</a>
+    <a href="https://github.com/demorga/community">Community</a>
     <hr>
 </div>
 
