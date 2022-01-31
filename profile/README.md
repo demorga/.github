@@ -7,6 +7,8 @@
     <a href="#">Blog</a>
     <span>&nbsp;&middot;&nbsp;</span>
     <a href="https://github.com/demorga/community">Community</a>
+    <span>&nbsp;&middot;&nbsp;</span>
+    <a href="https://github.com/demorga/community/wiki">Wiki</a>   
     <hr>
 </div>
 
